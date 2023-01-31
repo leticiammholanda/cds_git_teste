@@ -1,3 +1,5 @@
+import teste
+
 def get_opetation():
     op =input("Operação: ")
     
@@ -8,7 +10,7 @@ def gether data():
     n2 = input("Segundo valor: ")
     
     op = get_opetation()
-    
+
     return n1,n2,op
 
 def main():
